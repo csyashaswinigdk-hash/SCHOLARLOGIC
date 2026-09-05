@@ -1,0 +1,1 @@
+print("SCENARIO_BASE")
